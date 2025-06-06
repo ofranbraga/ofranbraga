@@ -7,8 +7,16 @@
 
 ## Tecnologias que uso no meu dia
 
-<div style="displau: inline_block"><br/>
+<div style="display: inline_block"><br/>
   <img align="center" alt="c++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" />
   <img align="center" alt="" src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black" />
   <img align="center" alt="" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
+</div>
+<br/>
+
+## IDEs
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="c++" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img align="center" alt="" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
 </div>

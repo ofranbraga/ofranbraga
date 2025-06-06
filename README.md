@@ -1,17 +1,19 @@
 ### Olá! Eu sou o Francisco Braga! 😴
-
+##
 ### Escolaridade
 Cursando Ciência da Computação na UFPPA
 <br/>
 
+##
 ### Redes Sociais
 [![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ofranbraga/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofranbraga/)
-<br/>
-<br/>
+##
+
 ![Fran GitHub stats](https://github-readme-stats.vercel.app/api?username=ofranbraga&show_icons=true&theme=radical)
 
-## Tecnologias que uso no meu dia
+##
+### Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="c++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" />
@@ -20,9 +22,13 @@ Cursando Ciência da Computação na UFPPA
 </div>
 <br/>
 
-## IDEs
+##
+
+### IDEs
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="c++" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img align="center" alt="" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
 </div>
+
+##

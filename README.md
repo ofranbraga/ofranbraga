@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Francisco Braga! 😴
 ##
 ### Escolaridade
-Cursando Ciência da Computação na UFPPA
+Cursando Ciência da Computação na UFPA
 <br/>
 
 ##

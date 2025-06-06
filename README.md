@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Francisco Braga! 😴
 
 [![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ofranbraga/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ofranbraga)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/ofranbraga](https://www.linkedin.com/in/ofranbraga/))
 
 ![Fran GitHub stats](https://github-readme-stats.vercel.app/api?username=ofranbraga&show_icons=true&theme=radical)
 

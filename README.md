@@ -8,7 +8,7 @@ Cursando Ciência da Computação na UFPA
 ### Redes Sociais
 [![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ofranbraga/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofranbraga/)
-
+##
 ### Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
